@@ -1,0 +1,56 @@
+ * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box
+        
+    }
+    body {
+        background-image: url(logos/plantel.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%; 
+        background: rgba(135, 175, 202, 0.301);
+    }
+    .foto1 { padding: 10px; margin: 10px; border: 0px solid black; float: center; width: 250px; }
+    .foto2 { padding: 20px; margin: 0px; border: 0px solid black; float: center; width: 300px; }
+    .foto3 { padding: 10px; margin: 0px; border: 0px solid black; float: center; width: 300px; }
+    .foto4 { padding: 60px; margin: 0px; border: 0px solid black; float: center; width: 300px; }
+    .foto5 { padding: 60px; margin: 0px; border: 0px solid black; float: center; width: 300px; }
+    .foto6 { padding: 10px; margin: 0px; border: 0px solid black; float: center; width: 350px; }
+    p{
+        margin: 100px;
+        padding: 10x;
+        font-size: 20px;
+        text-align: justify; 
+    }
+    h1 {
+        
+        text-align: center;
+        font-size:25px;
+        color:rgb(0, 0, 0);
+        background-color: rgba(238, 191, 63, 0.493);
+        }
+    h4 {
+            
+        text-align: center;
+        font-size:30px;
+        color:rgb(0, 0, 0);
+        background-color: #183390;
+            }
+    h3{
+        font-size:18px;
+        text-align: justify;
+        background-color: rgba(12, 12, 1, 0.904);
+        color:ghostwhite;
+        }
+    a{
+        text-align: justify;
+        font-size:20px;
+        color:rgb(251, 251, 253); 
+        }
+    table{
+        text-align:justify; 
+        margin: 50px;
+        padding: 10px;
+    }
+    
